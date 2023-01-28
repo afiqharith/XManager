@@ -1,0 +1,213 @@
+2023-01-28 00:17:43,910 - Program - Startup program
+2023-01-28 00:17:44,661 - Message - Finish GetMessageDatatable
+2023-01-28 00:17:44,680 - ViewController - Finish window initialization
+2023-01-28 00:17:44,749 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:17:44,749 - ViewController - Finish UCComponentPage1
+2023-01-28 00:17:44,951 - ViewController - Finish UCComponentPage2
+2023-01-28 00:17:44,956 - ViewController - Finish UCComponentPage3
+2023-01-28 00:17:44,960 - ViewController - Finish UCComponentPage4
+2023-01-28 00:17:44,963 - ViewController - Finish UCComponentPage5
+2023-01-28 00:17:44,989 - ViewController - Finish UCComponentPage6
+2023-01-28 00:17:44,990 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 00:17:44,991 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:17:44,991 - ViewController - Finish InitializeComponentPage
+2023-01-28 00:17:45,047 - ViewController - Window loading
+2023-01-28 00:17:45,223 - ViewController - Window loaded
+2023-01-28 00:17:49,630 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 00:17:49,841 - UCComponentPage2 - Finish Tab1InitializeChart
+2023-01-28 00:17:49,841 - UCComponentPage2 - Finish Tab1BindDgv
+2023-01-28 00:17:49,841 - UCComponentPage2 - Finish Tab1BindComboboxType
+2023-01-28 00:17:49,857 - UCComponentPage2 - Finish Tab1BindComboboxYear
+2023-01-28 00:17:49,857 - UCComponentPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 00:17:49,857 - UCComponentPage2 - Finish Tab1InitializeDataBind
+2023-01-28 00:18:11,154 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:18:12,439 - ViewController - Window closed
+2023-01-28 00:18:12,489 - ViewController - ViewController destructor called 
+2023-01-28 00:18:12,490 - ViewController - Disposing Form
+2023-01-28 00:18:12,490 - ViewController - Disposing UCComponentPage1
+2023-01-28 00:18:12,491 - ViewController - Disposing UCComponentPage2
+2023-01-28 00:18:12,491 - ViewController - Disposing UCComponentPage3
+2023-01-28 00:18:12,492 - ViewController - Disposing UCComponentPage4
+2023-01-28 00:18:12,492 - ViewController - Disposing UCComponentPage5
+2023-01-28 00:18:12,492 - ViewController - Disposing UCComponentPage6
+2023-01-28 00:18:12,493 - ViewController - Null state User
+2023-01-28 00:18:12,493 - ViewController - Null state Message
+2023-01-28 00:18:12,493 - ViewController - Disposing Database
+2023-01-28 00:18:12,494 - ViewController - Disposing Logger
+2023-01-28 00:18:29,157 - Program - Startup program
+2023-01-28 00:18:29,204 - Message - Finish GetMessageDatatable
+2023-01-28 00:18:29,220 - ViewController - Finish window initialization
+2023-01-28 00:18:29,285 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:18:29,285 - ViewController - Finish UCComponentPage1
+2023-01-28 00:18:29,396 - ViewController - Finish UCComponentPage2
+2023-01-28 00:18:29,401 - ViewController - Finish UCComponentPage3
+2023-01-28 00:18:29,406 - ViewController - Finish UCComponentPage4
+2023-01-28 00:18:29,410 - ViewController - Finish UCComponentPage5
+2023-01-28 00:18:29,418 - ViewController - Finish UCComponentPage6
+2023-01-28 00:18:29,420 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 00:18:29,420 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:18:29,420 - ViewController - Finish InitializeComponentPage
+2023-01-28 00:18:29,441 - ViewController - Window loading
+2023-01-28 00:18:29,477 - ViewController - Window loaded
+2023-01-28 00:18:30,856 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 00:18:30,921 - UCComponentPage2 - Finish Tab1InitializeChart
+2023-01-28 00:18:30,935 - UCComponentPage2 - Finish Tab1BindDgv
+2023-01-28 00:18:30,936 - UCComponentPage2 - Finish Tab1BindComboboxType
+2023-01-28 00:18:30,944 - UCComponentPage2 - Finish Tab1BindComboboxYear
+2023-01-28 00:18:30,952 - UCComponentPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 00:18:30,952 - UCComponentPage2 - Finish Tab1InitializeDataBind
+2023-01-28 00:19:25,981 - Program - Startup program
+2023-01-28 00:19:26,045 - Message - Finish GetMessageDatatable
+2023-01-28 00:19:26,060 - ViewController - Finish window initialization
+2023-01-28 00:19:26,127 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:19:26,142 - ViewController - Finish UCComponentPage1
+2023-01-28 00:19:26,346 - ViewController - Finish UCComponentPage2
+2023-01-28 00:19:26,346 - ViewController - Finish UCComponentPage3
+2023-01-28 00:19:26,362 - ViewController - Finish UCComponentPage4
+2023-01-28 00:19:26,362 - ViewController - Finish UCComponentPage5
+2023-01-28 00:19:26,377 - ViewController - Finish UCComponentPage6
+2023-01-28 00:19:26,377 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 00:19:26,377 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:19:26,377 - ViewController - Finish InitializeComponentPage
+2023-01-28 00:19:26,448 - ViewController - Window loading
+2023-01-28 00:19:26,509 - ViewController - Window loaded
+2023-01-28 00:19:30,113 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 00:19:30,136 - UCComponentPage2 - Finish Tab1InitializeChart
+2023-01-28 00:19:30,143 - UCComponentPage2 - Finish Tab1BindDgv
+2023-01-28 00:19:30,144 - UCComponentPage2 - Finish Tab1BindComboboxType
+2023-01-28 00:19:30,148 - UCComponentPage2 - Finish Tab1BindComboboxYear
+2023-01-28 00:19:30,153 - UCComponentPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 00:19:30,154 - UCComponentPage2 - Finish Tab1InitializeDataBind
+2023-01-28 00:19:40,191 - ViewController - Window closed
+2023-01-28 00:19:40,228 - ViewController - ViewController destructor called 
+2023-01-28 00:19:40,229 - ViewController - Disposing Form
+2023-01-28 00:19:40,229 - ViewController - Disposing UCComponentPage1
+2023-01-28 00:19:40,230 - ViewController - Disposing UCComponentPage2
+2023-01-28 00:19:40,230 - ViewController - Disposing UCComponentPage3
+2023-01-28 00:19:40,230 - ViewController - Disposing UCComponentPage4
+2023-01-28 00:19:40,231 - ViewController - Disposing UCComponentPage5
+2023-01-28 00:19:40,231 - ViewController - Disposing UCComponentPage6
+2023-01-28 00:19:40,231 - ViewController - Null state User
+2023-01-28 00:19:40,232 - ViewController - Null state Message
+2023-01-28 00:19:40,232 - ViewController - Disposing Database
+2023-01-28 00:19:40,232 - ViewController - Disposing Logger
+2023-01-28 00:22:39,906 - Program - Startup program
+2023-01-28 00:22:39,953 - Message - Finish GetMessageDatatable
+2023-01-28 00:22:39,969 - ViewController - Finish window initialization
+2023-01-28 00:22:40,103 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:22:40,103 - ViewController - Finish UCComponentPage1
+2023-01-28 00:22:40,407 - ViewController - Finish UCComponentPage2
+2023-01-28 00:22:40,423 - ViewController - Finish UCComponentPage3
+2023-01-28 00:22:40,439 - ViewController - Finish UCComponentPage4
+2023-01-28 00:22:40,439 - ViewController - Finish UCComponentPage5
+2023-01-28 00:22:40,439 - ViewController - Finish UCComponentPage6
+2023-01-28 00:22:40,439 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 00:22:40,439 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:22:40,454 - ViewController - Finish InitializeComponentPage
+2023-01-28 00:22:40,482 - ViewController - Window loading
+2023-01-28 00:22:40,522 - ViewController - Window loaded
+2023-01-28 00:22:42,384 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 00:22:42,403 - UCComponentPage2 - Finish Tab1InitializeChart
+2023-01-28 00:22:42,411 - UCComponentPage2 - Finish Tab1BindDgv
+2023-01-28 00:22:42,412 - UCComponentPage2 - Finish Tab1BindComboboxType
+2023-01-28 00:22:42,416 - UCComponentPage2 - Finish Tab1BindComboboxYear
+2023-01-28 00:22:42,421 - UCComponentPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 00:22:42,421 - UCComponentPage2 - Finish Tab1InitializeDataBind
+2023-01-28 00:23:43,470 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:24:16,186 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:25:55,362 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:26:11,992 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:26:29,662 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:26:52,317 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:28:37,012 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:30:14,601 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:33:25,142 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:35:38,963 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:39:39,803 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:41:17,569 - Program - Startup program
+2023-01-28 00:41:17,631 - Message - Finish GetMessageDatatable
+2023-01-28 00:41:17,647 - ViewController - Finish window initialization
+2023-01-28 00:41:17,730 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:41:17,731 - ViewController - Finish UCComponentPage1
+2023-01-28 00:41:17,849 - ViewController - Finish UCComponentPage2
+2023-01-28 00:41:17,854 - ViewController - Finish UCComponentPage3
+2023-01-28 00:41:17,859 - ViewController - Finish UCComponentPage4
+2023-01-28 00:41:17,862 - ViewController - Finish UCComponentPage5
+2023-01-28 00:41:17,867 - ViewController - Finish UCComponentPage6
+2023-01-28 00:41:17,868 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 00:41:17,869 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:41:17,870 - ViewController - Finish InitializeComponentPage
+2023-01-28 00:41:17,891 - ViewController - Window loading
+2023-01-28 00:41:17,924 - ViewController - Window loaded
+2023-01-28 00:41:20,676 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 00:41:20,918 - UCComponentPage2 - Finish Tab1InitializeChart
+2023-01-28 00:41:20,928 - UCComponentPage2 - Finish Tab1BindDgv
+2023-01-28 00:41:20,929 - UCComponentPage2 - Finish Tab1BindComboboxType
+2023-01-28 00:41:20,933 - UCComponentPage2 - Finish Tab1BindComboboxYear
+2023-01-28 00:41:20,938 - UCComponentPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 00:41:20,939 - UCComponentPage2 - Finish Tab1InitializeDataBind
+2023-01-28 00:42:20,650 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:43:32,146 - Message - MBShow - Error(ID4007) Failed exporting log file. OK#1
+2023-01-28 00:43:51,176 - Message - MBShow - Information(ID1008) Log file successfully exported.
+Location:
+C:\Users\Afiq\Desktop OK#1
+2023-01-28 00:43:52,568 - ViewController - Window closed
+2023-01-28 00:43:52,617 - ViewController - ViewController destructor called 
+2023-01-28 00:43:52,617 - ViewController - Disposing Form
+2023-01-28 00:43:52,617 - ViewController - Disposing UCComponentPage1
+2023-01-28 00:43:52,618 - ViewController - Disposing UCComponentPage2
+2023-01-28 00:43:52,618 - ViewController - Disposing UCComponentPage3
+2023-01-28 00:43:52,618 - ViewController - Disposing UCComponentPage4
+2023-01-28 00:43:52,619 - ViewController - Disposing UCComponentPage5
+2023-01-28 00:43:52,619 - ViewController - Disposing UCComponentPage6
+2023-01-28 00:43:52,619 - ViewController - Null state User
+2023-01-28 00:43:52,620 - ViewController - Null state Message
+2023-01-28 00:43:52,620 - ViewController - Disposing Database
+2023-01-28 00:43:52,620 - ViewController - Disposing Logger
+2023-01-28 00:51:02,445 - Program - Startup program
+2023-01-28 00:51:02,565 - Message - Finish GetMessageDatatable
+2023-01-28 00:51:02,585 - ViewController - Finish window initialization
+2023-01-28 00:51:02,665 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:51:02,665 - ViewController - Finish UCComponentPage1
+2023-01-28 00:51:02,773 - ViewController - Finish UCComponentPage2
+2023-01-28 00:51:02,779 - ViewController - Finish UCComponentPage3
+2023-01-28 00:51:02,784 - ViewController - Finish UCComponentPage4
+2023-01-28 00:51:02,792 - ViewController - Finish UCComponentPage5
+2023-01-28 00:51:02,797 - ViewController - Finish UCComponentPage6
+2023-01-28 00:51:02,799 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 00:51:02,799 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-28 00:51:02,800 - ViewController - Finish InitializeComponentPage
+2023-01-28 00:51:02,821 - ViewController - Window loading
+2023-01-28 00:51:02,847 - ViewController - Window loaded
+2023-01-28 00:51:04,846 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 00:51:05,075 - UCComponentPage2 - Finish Tab1InitializeChart
+2023-01-28 00:51:05,097 - UCComponentPage2 - Finish Tab1BindDgv
+2023-01-28 00:51:05,097 - UCComponentPage2 - Finish Tab1BindComboboxType
+2023-01-28 00:51:05,097 - UCComponentPage2 - Finish Tab1BindComboboxYear
+2023-01-28 00:51:05,113 - UCComponentPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 00:51:05,113 - UCComponentPage2 - Finish Tab1InitializeDataBind
+2023-01-28 00:51:10,519 - UCComponentPage2 - Finish Tab1ResetWageSection
+2023-01-28 00:51:10,519 - UCComponentPage2 - Finish Tab1ResetNewEntrySection
+2023-01-28 00:51:10,519 - UCComponentPage2 - Finish Tab1ResetDgvSection
+2023-01-28 00:51:10,519 - UCComponentPage2 - Finish ClearComponent
+2023-01-28 00:51:10,519 - ViewController - UPDATE_USERNAME(0x02) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 00:51:11,743 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 00:51:11,747 - UCComponentPage2 - Finish Tab1InitializeChart
+2023-01-28 00:51:11,754 - UCComponentPage2 - Finish Tab1BindDgv
+2023-01-28 00:51:11,757 - UCComponentPage2 - Finish Tab1BindComboboxType
+2023-01-28 00:51:11,761 - UCComponentPage2 - Finish Tab1BindComboboxYear
+2023-01-28 00:51:11,766 - UCComponentPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 00:51:11,766 - UCComponentPage2 - Finish Tab1InitializeDataBind
+2023-01-28 00:51:14,725 - ViewController - Window closed
+2023-01-28 00:51:14,758 - ViewController - ViewController destructor called 
+2023-01-28 00:51:14,758 - ViewController - Disposing Form
+2023-01-28 00:51:14,758 - ViewController - Disposing UCComponentPage1
+2023-01-28 00:51:14,758 - ViewController - Disposing UCComponentPage2
+2023-01-28 00:51:14,758 - ViewController - Disposing UCComponentPage3
+2023-01-28 00:51:14,758 - ViewController - Disposing UCComponentPage4
+2023-01-28 00:51:14,758 - ViewController - Disposing UCComponentPage5
+2023-01-28 00:51:14,758 - ViewController - Disposing UCComponentPage6
+2023-01-28 00:51:14,758 - ViewController - Null state User
+2023-01-28 00:51:14,758 - ViewController - Null state Message
+2023-01-28 00:51:14,758 - ViewController - Disposing Database
+2023-01-28 00:51:14,758 - ViewController - Disposing Logger

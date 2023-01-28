@@ -1,0 +1,6 @@
+C:\Users\Afiq\Project\C#\XManager\UserManagement\bin\Debug\UserManagement.dll
+C:\Users\Afiq\Project\C#\XManager\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\Afiq\Project\C#\XManager\UserManagement\obj\Debug\UserManagement.csproj.AssemblyReference.cache
+C:\Users\Afiq\Project\C#\XManager\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\Afiq\Project\C#\XManager\UserManagement\obj\Debug\UserManagement.dll
+C:\Users\Afiq\Project\C#\XManager\UserManagement\obj\Debug\UserManagement.pdb

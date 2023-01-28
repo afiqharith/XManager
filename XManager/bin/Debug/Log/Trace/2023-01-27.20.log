@@ -1,0 +1,35 @@
+2023-01-27 20:05:40,799 - Program - Startup program
+2023-01-27 20:05:40,884 - Message - Finish GetMessageDatatable
+2023-01-27 20:05:40,897 - ViewController - Finish window initialization
+2023-01-27 20:05:40,980 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-27 20:05:40,985 - ViewController - Finish UCComponentPage1
+2023-01-27 20:05:41,075 - ViewController - Finish UCComponentPage2
+2023-01-27 20:05:41,080 - ViewController - Finish UCComponentPage3
+2023-01-27 20:05:41,084 - ViewController - Finish UCComponentPage4
+2023-01-27 20:05:41,088 - ViewController - Finish UCComponentPage5
+2023-01-27 20:05:41,093 - ViewController - Finish UCComponentPage6
+2023-01-27 20:05:41,095 - ViewController - LOGIN(0) - Page navigation.
+2023-01-27 20:05:41,095 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-27 20:05:41,095 - ViewController - Finish InitializeComponentPage
+2023-01-27 20:05:41,121 - ViewController - Window loading
+2023-01-27 20:05:41,152 - ViewController - Window loaded
+2023-01-27 20:05:43,812 - ViewController - INDEX(1) - Page navigation. (uname: admin)
+2023-01-27 20:05:44,044 - UCComponentPage2 - Finish Tab1InitializeChart
+2023-01-27 20:05:44,053 - UCComponentPage2 - Finish Tab1BindDgv
+2023-01-27 20:05:44,054 - UCComponentPage2 - Finish Tab1BindComboboxType
+2023-01-27 20:05:44,059 - UCComponentPage2 - Finish Tab1BindComboboxYear
+2023-01-27 20:05:44,064 - UCComponentPage2 - Finish Tab1BindComboboxMonth
+2023-01-27 20:05:44,064 - UCComponentPage2 - Finish Tab1InitializeDataBind
+2023-01-27 20:05:49,195 - ViewController - Window closed
+2023-01-27 20:05:49,245 - ViewController - ViewController destructor called 
+2023-01-27 20:05:49,246 - ViewController - Disposing Form
+2023-01-27 20:05:49,246 - ViewController - Disposing UCComponentPage1
+2023-01-27 20:05:49,247 - ViewController - Disposing UCComponentPage2
+2023-01-27 20:05:49,247 - ViewController - Disposing UCComponentPage3
+2023-01-27 20:05:49,247 - ViewController - Disposing UCComponentPage4
+2023-01-27 20:05:49,248 - ViewController - Disposing UCComponentPage5
+2023-01-27 20:05:49,248 - ViewController - Disposing UCComponentPage6
+2023-01-27 20:05:49,248 - ViewController - Null state User
+2023-01-27 20:05:49,249 - ViewController - Null state Message
+2023-01-27 20:05:49,249 - ViewController - Disposing Database
+2023-01-27 20:05:49,249 - ViewController - Disposing Logger

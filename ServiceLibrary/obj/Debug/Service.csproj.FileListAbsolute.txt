@@ -1,0 +1,6 @@
+C:\Users\Afiq\Project\C#\XManager\Service\bin\Debug\Service.dll
+C:\Users\Afiq\Project\C#\XManager\Service\bin\Debug\Service.pdb
+C:\Users\Afiq\Project\C#\XManager\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Afiq\Project\C#\XManager\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Afiq\Project\C#\XManager\Service\obj\Debug\Service.dll
+C:\Users\Afiq\Project\C#\XManager\Service\obj\Debug\Service.pdb

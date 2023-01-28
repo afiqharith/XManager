@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<metadata>
+	<messageBox id="1000" type="Information" button="OK" text="Total salary record successfully added."/>
+	<messageBox id="1001" type="Information" button="OK" text="Total salary record successfully updated."/>
+	<messageBox id="1002" type="Information" button="OK" text="Record successfully added."/>
+	<messageBox id="1003" type="Information" button="OK" text="Record successfully deleted."/>
+	<messageBox id="1004" type="Information" button="OK" text="Username succeessfully updated."/>
+	<messageBox id="1005" type="Information" button="OK" text="Password succeessfully updated."/>
+	<messageBox id="1006" type="Information" button="OK" text="Account deactivated. All data have been erased."/>
+	<messageBox id="1007" type="Information" button="OK" text="User successfully registered."/>
+	<messageBox id="1008" type="Information" button="OK" text="Log file successfully exported."/>
+	<messageBox id="1009" type="Information" button="OK" text="Cumulative data file successfully exported."/>
+	<messageBox id="1010" type="Information" button="OK" text="Record successfully updated."/>
+
+	<messageBox id="2000" type="Question" button="YesNo" text="Log out?"/>
+
+	<messageBox id="3000" type="Warning" button="OK" text="User not exists."/>
+	<messageBox id="3001" type="Warning" button="OK" text="Fill all empty field."/>
+	<messageBox id="3002" type="Warning" button="OK" text="Select record from table below to delete."/>
+	<messageBox id="3003" type="Warning" button="OK" text="Cannot proceed with the similar username. Please use different username."/>
+	<messageBox id="3004" type="Warning" button="OK" text="Username have been used. Please try different username."/>
+	<messageBox id="3005" type="Warning" button="OK" text="Password not match. Please try again."/>
+	<messageBox id="3006" type="Warning" button="OK" text="Cannot proceed with the similar password. Please use different password."/>
+	<messageBox id="3007" type="Warning" button="YesNo" text="This action cannot be undone.&#xA;Deactivate account?"/>
+	<messageBox id="3008" type="Warning" button="OK" text="Username already exists. Please choose different username."/>
+	<messageBox id="3009" type="Warning" button="YesNo" text="Delete record?"/>
+
+	<messageBox id="4000" type="Error" button="OK" text="Username or password is incorrect."/>
+	<messageBox id="4001" type="Error" button="OK" text="Total salary record fail to add."/>
+	<messageBox id="4002" type="Error" button="OK" text="Record to update."/>
+	<messageBox id="4003" type="Error" button="OK" text="Incorrect password."/>
+	<messageBox id="4004" type="Error" button="OK" text="Fill in the required field."/>
+	<messageBox id="4005" type="Error" button="OK" text="No monthly wage associate with the date.&#xA;Please add new monthly wage with the associated month before try again."/>
+	<messageBox id="4006" type="Error" button="OK" text="Failed exporting log file."/>
+	<messageBox id="4007" type="Error" button="OK" text="Failed exporting cumulative data file."/>
+	<messageBox id="4008" type="Error" button="OK" text="Record failed to update."/>
+	<messageBox id="4009" type="Error" button="OK" text="Record failed to add."/>
+
+	<messageStr id="6000" text="Startup program"/>
+</metadata>

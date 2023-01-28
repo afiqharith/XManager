@@ -1,0 +1,56 @@
+2023-01-26 19:10:05,940 - Program - Startup program
+2023-01-26 19:10:06,019 - Message - Finish GetMessageDatatable
+2023-01-26 19:10:06,033 - ViewController - Finish window initialization
+2023-01-26 19:10:06,110 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-26 19:10:06,111 - ViewController - Finish UCComponentPage1
+2023-01-26 19:10:06,312 - ViewController - Finish UCComponentPage2
+2023-01-26 19:10:06,317 - ViewController - Finish UCComponentPage3
+2023-01-26 19:10:06,335 - ViewController - Finish UCComponentPage4
+2023-01-26 19:10:06,338 - ViewController - Finish UCComponentPage5
+2023-01-26 19:10:06,343 - ViewController - Finish UCComponentPage6
+2023-01-26 19:10:06,345 - ViewController - LOGIN(0) - Page navigation.
+2023-01-26 19:10:06,345 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-26 19:10:06,346 - ViewController - Finish InitializeComponentPage
+2023-01-26 19:10:06,387 - ViewController - Window loading
+2023-01-26 19:10:06,482 - ViewController - Window loaded
+2023-01-26 19:10:19,489 - ViewController - Window closed
+2023-01-26 19:10:19,533 - ViewController - ViewController destructor called 
+2023-01-26 19:10:19,533 - ViewController - Disposing Form
+2023-01-26 19:10:19,534 - ViewController - Disposing UCComponentPage1
+2023-01-26 19:10:19,534 - ViewController - Disposing UCComponentPage2
+2023-01-26 19:10:19,534 - ViewController - Disposing UCComponentPage3
+2023-01-26 19:10:19,535 - ViewController - Disposing UCComponentPage4
+2023-01-26 19:10:19,535 - ViewController - Disposing UCComponentPage5
+2023-01-26 19:10:19,535 - ViewController - Disposing UCComponentPage6
+2023-01-26 19:10:19,536 - ViewController - Null state User
+2023-01-26 19:10:19,536 - ViewController - Null state Message
+2023-01-26 19:10:19,536 - ViewController - Disposing Database
+2023-01-26 19:10:19,537 - ViewController - Disposing Logger
+2023-01-26 19:16:14,824 - Program - Startup program
+2023-01-26 19:16:14,952 - Message - Finish GetMessageDatatable
+2023-01-26 19:16:14,977 - ViewController - Finish window initialization
+2023-01-26 19:16:15,053 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-26 19:16:15,053 - ViewController - Finish UCComponentPage1
+2023-01-26 19:16:15,155 - ViewController - Finish UCComponentPage2
+2023-01-26 19:16:15,159 - ViewController - Finish UCComponentPage3
+2023-01-26 19:16:15,172 - ViewController - Finish UCComponentPage4
+2023-01-26 19:16:15,188 - ViewController - Finish UCComponentPage5
+2023-01-26 19:16:15,223 - ViewController - Finish UCComponentPage6
+2023-01-26 19:16:15,278 - ViewController - LOGIN(0) - Page navigation.
+2023-01-26 19:16:15,278 - UCComponentPage1 - Finish LoadLoginCookies
+2023-01-26 19:16:15,280 - ViewController - Finish InitializeComponentPage
+2023-01-26 19:16:15,335 - ViewController - Window loading
+2023-01-26 19:16:15,434 - ViewController - Window loaded
+2023-01-26 19:16:16,982 - ViewController - Window closed
+2023-01-26 19:16:17,008 - ViewController - ViewController destructor called 
+2023-01-26 19:16:17,009 - ViewController - Disposing Form
+2023-01-26 19:16:17,009 - ViewController - Disposing UCComponentPage1
+2023-01-26 19:16:17,010 - ViewController - Disposing UCComponentPage2
+2023-01-26 19:16:17,010 - ViewController - Disposing UCComponentPage3
+2023-01-26 19:16:17,010 - ViewController - Disposing UCComponentPage4
+2023-01-26 19:16:17,011 - ViewController - Disposing UCComponentPage5
+2023-01-26 19:16:17,011 - ViewController - Disposing UCComponentPage6
+2023-01-26 19:16:17,011 - ViewController - Null state User
+2023-01-26 19:16:17,012 - ViewController - Null state Message
+2023-01-26 19:16:17,012 - ViewController - Disposing Database
+2023-01-26 19:16:17,013 - ViewController - Disposing Logger

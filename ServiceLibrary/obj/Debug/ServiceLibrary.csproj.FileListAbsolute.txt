@@ -1,0 +1,12 @@
+C:\Users\Afiq\Project\C#\XManager\Service\obj\Debug\ServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\Afiq\Project\C#\XManager\Service\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Afiq\Project\C#\XManager\Service\bin\Debug\ServiceLibrary.dll
+C:\Users\Afiq\Project\C#\XManager\Service\bin\Debug\ServiceLibrary.pdb
+C:\Users\Afiq\Project\C#\XManager\Service\obj\Debug\ServiceLibrary.dll
+C:\Users\Afiq\Project\C#\XManager\Service\obj\Debug\ServiceLibrary.pdb
+C:\Users\Afiq\Project\C#\XManager\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+C:\Users\Afiq\Project\C#\XManager\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+C:\Users\Afiq\Project\C#\XManager\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\Afiq\Project\C#\XManager\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Afiq\Project\C#\XManager\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+C:\Users\Afiq\Project\C#\XManager\ServiceLibrary\obj\Debug\ServiceLibrary.pdb

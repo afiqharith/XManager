@@ -1,0 +1,121 @@
+2023-01-28 18:16:47,638 - Program - Startup program
+2023-01-28 18:16:47,685 - Message - Finish GetMessageDatatable
+2023-01-28 18:16:47,701 - ViewController - Finish window initialization
+2023-01-28 18:16:47,779 - UCPage1 - Finish LoadLoginCookies
+2023-01-28 18:16:47,779 - ViewController - Finish UCPage1
+2023-01-28 18:16:47,857 - ViewController - Finish UCPage2
+2023-01-28 18:16:47,857 - ViewController - Finish UCPage3
+2023-01-28 18:16:47,872 - ViewController - Finish UCPage4
+2023-01-28 18:16:47,872 - ViewController - Finish UCPage5
+2023-01-28 18:16:47,872 - ViewController - Finish UCPage6
+2023-01-28 18:16:47,872 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 18:16:47,872 - UCPage1 - Finish LoadLoginCookies
+2023-01-28 18:16:47,872 - ViewController - Finish InitializeComponentPage
+2023-01-28 18:16:47,888 - ViewController - Window loading
+2023-01-28 18:16:47,919 - ViewController - Window loaded
+2023-01-28 18:16:52,356 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 18:16:52,950 - UCPage2 - Finish Tab1InitializeChart
+2023-01-28 18:16:53,012 - UCPage2 - Finish Tab1BindDgv
+2023-01-28 18:16:53,012 - UCPage2 - Finish Tab1BindComboboxType
+2023-01-28 18:16:53,028 - UCPage2 - Finish Tab1BindComboboxYear
+2023-01-28 18:16:53,028 - UCPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 18:16:53,028 - UCPage2 - Finish Tab1InitializeDataBind
+2023-01-28 18:16:54,615 - ViewController - Window closed
+2023-01-28 18:16:54,693 - ViewController - ViewController destructor called 
+2023-01-28 18:16:54,693 - ViewController - Disposing Form
+2023-01-28 18:16:54,693 - ViewController - Disposing UCPage1
+2023-01-28 18:16:54,693 - ViewController - Disposing UCPage2
+2023-01-28 18:16:54,693 - ViewController - Disposing UCPage3
+2023-01-28 18:16:54,693 - ViewController - Disposing UCPage4
+2023-01-28 18:16:54,693 - ViewController - Disposing UCPage5
+2023-01-28 18:16:54,693 - ViewController - Disposing UCPage6
+2023-01-28 18:16:54,693 - ViewController - Null state User
+2023-01-28 18:16:54,693 - ViewController - Null state Message
+2023-01-28 18:16:54,693 - ViewController - Disposing Database
+2023-01-28 18:16:54,693 - ViewController - Disposing Logger
+2023-01-28 18:20:58,288 - Program - Startup program
+2023-01-28 18:20:58,355 - Message - Finish GetMessageDatatable
+2023-01-28 18:20:58,368 - ViewController - Finish window initialization
+2023-01-28 18:20:58,430 - UCPage1 - Finish LoadLoginCookies
+2023-01-28 18:20:58,430 - ViewController - Finish UCPage1
+2023-01-28 18:20:58,508 - ViewController - Finish UCPage2
+2023-01-28 18:20:58,512 - ViewController - Finish UCPage3
+2023-01-28 18:20:58,516 - ViewController - Finish UCPage4
+2023-01-28 18:20:58,519 - ViewController - Finish UCPage5
+2023-01-28 18:20:58,523 - ViewController - Finish UCPage6
+2023-01-28 18:21:27,674 - Program - Startup program
+2023-01-28 18:21:27,876 - Message - Finish GetMessageDatatable
+2023-01-28 18:21:27,903 - ViewController - Finish window initialization
+2023-01-28 18:21:27,967 - UCPage1 - Finish LoadLoginCookies
+2023-01-28 18:21:27,967 - ViewController - Finish UCPage1
+2023-01-28 18:21:28,052 - ViewController - Finish UCPage2
+2023-01-28 18:21:28,056 - ViewController - Finish UCPage3
+2023-01-28 18:21:28,060 - ViewController - Finish UCPage4
+2023-01-28 18:21:28,063 - ViewController - Finish UCPage5
+2023-01-28 18:21:28,069 - ViewController - Finish UCPage6
+2023-01-28 18:21:28,071 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 18:21:28,071 - UCPage1 - Finish LoadLoginCookies
+2023-01-28 18:21:28,071 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 18:21:28,072 - ViewController - Finish InitializeComponentPage
+2023-01-28 18:21:28,091 - ViewController - Window loading
+2023-01-28 18:21:28,121 - ViewController - Window loaded
+2023-01-28 18:21:31,871 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 18:21:31,919 - UCPage2 - Finish Tab1InitializeChart
+2023-01-28 18:21:31,931 - UCPage2 - Finish Tab1BindDgv
+2023-01-28 18:21:31,932 - UCPage2 - Finish Tab1BindComboboxType
+2023-01-28 18:21:31,937 - UCPage2 - Finish Tab1BindComboboxYear
+2023-01-28 18:21:31,942 - UCPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 18:21:31,942 - UCPage2 - Finish Tab1InitializeDataBind
+2023-01-28 18:21:32,983 - ViewController - Window closed
+2023-01-28 18:21:33,054 - ViewController - ViewController destructor called 
+2023-01-28 18:21:33,055 - ViewController - Disposing Form
+2023-01-28 18:21:33,055 - ViewController - Disposing UCPage1
+2023-01-28 18:21:33,055 - ViewController - Disposing UCPage2
+2023-01-28 18:21:33,056 - ViewController - Disposing UCPage3
+2023-01-28 18:21:33,056 - ViewController - Disposing UCPage4
+2023-01-28 18:21:33,056 - ViewController - Disposing UCPage5
+2023-01-28 18:21:33,057 - ViewController - Disposing UCPage6
+2023-01-28 18:21:33,057 - ViewController - Null state User
+2023-01-28 18:21:33,057 - ViewController - Null state Message
+2023-01-28 18:21:33,058 - ViewController - Disposing Database
+2023-01-28 18:21:33,059 - ViewController - Disposing Logger
+2023-01-28 18:57:44,303 - Program - Startup program
+2023-01-28 18:57:44,375 - Message - Finish GetMessageDatatable
+2023-01-28 18:57:44,389 - ViewController - Finish window initialization
+2023-01-28 18:57:44,775 - UCPage1 - Finish LoadLoginCookies
+2023-01-28 18:57:44,776 - ViewController - Finish UCPage1
+2023-01-28 18:57:45,010 - ViewController - Finish UCPage2
+2023-01-28 18:57:45,016 - ViewController - Finish UCPage3
+2023-01-28 18:57:45,020 - ViewController - Finish UCPage4
+2023-01-28 18:57:45,023 - ViewController - Finish UCPage5
+2023-01-28 18:57:45,028 - ViewController - Finish UCPage6
+2023-01-28 18:57:45,029 - UCPage1 - Finish LoadLoginCookies
+2023-01-28 18:57:45,029 - ViewController - LOGIN(0x00) - Page navigation.
+2023-01-28 18:57:45,029 - ViewController - Finish InitializeComponentPage
+2023-01-28 18:57:45,064 - ViewController - Window loading
+2023-01-28 18:57:45,112 - ViewController - Window loaded
+2023-01-28 18:57:47,676 - UCPage2 - Finish Tab1InitializeChart
+2023-01-28 18:57:47,685 - UCPage2 - Finish Tab1BindDgv
+2023-01-28 18:57:47,686 - UCPage2 - Finish Tab1BindComboboxType
+2023-01-28 18:57:47,690 - UCPage2 - Finish Tab1BindComboboxYear
+2023-01-28 18:57:47,695 - UCPage2 - Finish Tab1BindComboboxMonth
+2023-01-28 18:57:47,696 - UCPage2 - Finish Tab1InitializeDataBind
+2023-01-28 18:57:47,819 - ViewController - INDEX(0x01) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 18:57:53,769 - Message - Finish GetMessageDatatable
+2023-01-28 18:57:56,087 - Message - Finish GetMessageDatatable
+2023-01-28 18:58:04,915 - ViewController - UPDATE_PASSWORD(0x03) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 18:58:08,217 - ViewController - DEACTIVATE_ACCOUNT(0x04) - Page navigation. (User: 1a403010-41bf-45c3-bff2-2f645226a0b7)
+2023-01-28 18:58:35,436 - Message - MBShow - Warning(ID3001) WARN_FILL_EMPTY_FIELD OK#1
+2023-01-28 18:58:49,671 - ViewController - Window closed
+2023-01-28 18:58:49,714 - ViewController - ViewController destructor called 
+2023-01-28 18:58:49,715 - ViewController - Disposing Form
+2023-01-28 18:58:49,715 - ViewController - Disposing UCPage1
+2023-01-28 18:58:49,715 - ViewController - Disposing UCPage2
+2023-01-28 18:58:49,716 - ViewController - Disposing UCPage3
+2023-01-28 18:58:49,717 - ViewController - Disposing UCPage4
+2023-01-28 18:58:49,717 - ViewController - Disposing UCPage5
+2023-01-28 18:58:49,718 - ViewController - Disposing UCPage6
+2023-01-28 18:58:49,718 - ViewController - Null state User
+2023-01-28 18:58:49,719 - ViewController - Null state Message
+2023-01-28 18:58:49,719 - ViewController - Disposing Database
+2023-01-28 18:58:49,720 - ViewController - Disposing Logger

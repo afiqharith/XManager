@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F6C21B4D-188B-47E2-9BF0-B661F037D43B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>XManager</RootNamespace>
+    <AssemblyName>XManager</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Expense Manager</ProductName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>AppData\Image\001.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="LogLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LogLibrary\bin\Debug\LogLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Scripting.11.0.2100.61\lib\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Scripting.11.0.2100.61\lib\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Scripting.11.0.2100.61\lib\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceLibrary">
+      <HintPath>..\ServiceLibrary\bin\Debug\ServiceLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.6.0.0\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Model\BinaryFileInfo.cs" />
+    <Compile Include="Common\Model\Entry.cs" />
+    <Compile Include="Common\Interface\IEntry.cs" />
+    <Compile Include="Common\Interface\IUser.cs" />
+    <Compile Include="App.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>App.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Common\CommonDef.cs" />
+    <Compile Include="View\P2_Index\Tab1\UCModalEditEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\P2_Index\Tab1\UCModalEditEntry.Designer.cs">
+      <DependentUpon>UCModalEditEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\P2_Index\Tab1\UCModalManageDistAllocation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\P2_Index\Tab1\UCModalManageDistAllocation.Designer.cs">
+      <DependentUpon>UCModalManageDistAllocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Misc\UCModalLoad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Misc\UCModalLoad.Designer.cs">
+      <DependentUpon>UCModalLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Misc\UCModalUpdateUsername.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Misc\UCModalUpdateUsername.Designer.cs">
+      <DependentUpon>UCModalUpdateUsername.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\P3_ChangeUsername\UCPage3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\P3_ChangeUsername\UCPage3.Designer.cs">
+      <DependentUpon>UCPage3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\P2_Index\UCPage2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\P2_Index\UCPage2.Designer.cs">
+      <DependentUpon>UCPage2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\P4_ChangePassword\UCPage4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\P4_ChangePassword\UCPage4.Designer.cs">
+      <DependentUpon>UCPage4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\P5_DeactivateAccount\UCPage5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\P5_DeactivateAccount\UCPage5.Designer.cs">
+      <DependentUpon>UCPage5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\P6_CreateAccount\UCPage6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\P6_CreateAccount\UCPage6.Designer.cs">
+      <DependentUpon>UCPage6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\P1_Login\UCPage1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\P1_Login\UCPage1.Designer.cs">
+      <DependentUpon>UCPage1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\Config.cs" />
+    <Compile Include="Utils\ViewController.cs" />
+    <Compile Include="Utils\Database.cs" />
+    <Compile Include="Utils\Message.cs" />
+    <Compile Include="Common\Model\User.cs" />
+    <Content Include="AppData\System\SystemConfig.xml" />
+    <EmbeddedResource Include="View\Misc\UCModalUpdateUsername.resx">
+      <DependentUpon>UCModalUpdateUsername.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\P2_Index\Tab1\UCModalEditEntry.resx">
+      <DependentUpon>UCModalEditEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\P2_Index\Tab1\UCModalManageDistAllocation.resx">
+      <DependentUpon>UCModalManageDistAllocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\P2_Index\UCPage2.resx">
+      <DependentUpon>UCPage2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\P3_ChangeUsername\UCPage3.resx">
+      <DependentUpon>UCPage3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\P4_ChangePassword\UCPage4.resx">
+      <DependentUpon>UCPage4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\P5_DeactivateAccount\UCPage5.resx">
+      <DependentUpon>UCPage5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\P6_CreateAccount\UCPage6.resx">
+      <DependentUpon>UCPage6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Content Include="AppData\System\App.ENG.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="View\P1_Login\UCPage1.resx">
+      <DependentUpon>UCPage1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Misc\UCModalLoad.resx">
+      <DependentUpon>UCModalLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="App.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>App.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AppData\Image\002.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppData\Image\003.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppData\System\query.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppData\System\ExpenseManagerDb.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppData\System\ExpenseManagerDb_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>ExpenseManagerDb.mdf</DependentUpon>
+    </Content>
+    <Content Include="AppData\Image\001.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="View\P2_Index\Tab2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

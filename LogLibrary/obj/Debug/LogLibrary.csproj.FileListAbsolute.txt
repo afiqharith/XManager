@@ -1,0 +1,6 @@
+C:\Users\Afiq\Project\C#\XManager\LogLibrary\bin\Debug\LogLibrary.dll
+C:\Users\Afiq\Project\C#\XManager\LogLibrary\bin\Debug\LogLibrary.pdb
+C:\Users\Afiq\Project\C#\XManager\LogLibrary\obj\Debug\LogLibrary.csproj.AssemblyReference.cache
+C:\Users\Afiq\Project\C#\XManager\LogLibrary\obj\Debug\LogLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Afiq\Project\C#\XManager\LogLibrary\obj\Debug\LogLibrary.dll
+C:\Users\Afiq\Project\C#\XManager\LogLibrary\obj\Debug\LogLibrary.pdb

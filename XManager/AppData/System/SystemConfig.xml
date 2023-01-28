@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<UserInterface key="CurrentTheme" value="0x01" />
+	<UserInterface key="ShowClock" value="true" />
+	
+	<Path key="MessagePath" value=".\\AppData\\System\\App.ENG.xml"/>
+
+	<Log key="MaxSize" value="10.0"/>
+	<Log key="EnableDownSize" value="true"/>
+	
+</root>

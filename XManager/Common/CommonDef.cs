@@ -1,0 +1,85 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace XManager.SystemMessage
+{
+    public enum ID
+    {
+        INFO_RECORD_TOTAL_SALARY_SUCCESS_CREATED = 1000,
+        INFO_RECORD_TOTAL_SALARY_SUCCESS_UPDATED = 1001,
+        INFO_RECORD_ENTRY_SUCCESS_CREATED = 1002,
+        INFO_RECORD_ENTRY_SUCCESS_DELETED = 1003,
+        INFO_USERNAME_ENTRY_SUCCESS_UPDATED = 1004,
+        INFO_PASSWORD_ENTRY_SUCCESS_UPDATED = 1005,
+        INFO_ACCOUNT_SUCCESS_DEACTIVATED = 1006,
+        INFO_ACCOUNT_SUCCESS_CREATED = 1007,
+        INFO_LOG_FILE_SUCCESS_EXPORTED = 1008,
+        INFO_CUM_DATA_FILE_SUCCESS_EXPORTED = 1009,
+        INFO_RECORD_ENTRY_SUCCESS_UPDATED = 1010,
+
+        QUESTION_LOG_OUT = 2000,
+
+        WARN_USER_NOT_EXIST = 3000,
+        WARN_FILL_EMPTY_FIELD = 3001,
+        WARN_SELECT_RECORD_FROM_TABLE_WARNING = 3002,
+        WARN_SIMILAR_USERNAME = 3003,
+        WARN_USED_USERNAME = 3004,
+        WARN_PASSWORD_NOT_MATCHED = 3005,
+        WARN_SIMILAR_PASSWORD = 3006,
+        WARN_DEACTIVATE_ACCOUNT = 3007,
+        WARN_CHOOSE_DIFFERENT_USERNAME = 3008,
+        WARN_DELETE_RECORD = 3009,
+
+
+        ERROR_USERNAME_OR_PASSWORD_INCORRECT = 4000,
+        ERROR_RECORD_TOTAL_SALARY_FAILURE_CREATED = 4001,
+        ERROR_RECORD_TOTAL_SALARY_FAILURE_UPDATED = 4002,
+        ERROR_PASSWORD_INCCORECT = 4003,
+        ERROR_EMPTY_FIELD = 4004,
+        ERROR_WAGE_MONTH_NOT_FOUND = 4005,
+        ERROR_LOG_FILE_FAILED_EXPORTED = 4006,
+        ERROR_CUM_DATA_FILE_FAILED_EXPORTED = 4007,
+        ERROR_RECORD_ENTRY_FAILURE_UPDATED = 4008,
+        ERROR_RECORD_ENTRY_FAILED_CREATED = 4009,
+
+        STARTUP_PROGRAM = 6000,
+    }
+}
+
+namespace XManager.SystemPage
+{
+    public enum Page
+    {
+        LOGIN = 0x00,
+        INDEX = 0x01,
+        UPDATE_USERNAME = 0x02,
+        UPDATE_PASSWORD = 0x03,
+        DEACTIVATE_ACCOUNT = 0x04,
+        CREATE_ACCOUNT = 0x05,
+        NUMS_OF_PAGE
+    }
+}
+
+namespace XManager.SystemTab
+{
+    public enum P2Tab
+    {
+        TAB_OVERVIEW = 0x0,
+        TAB_ANALYSIS = 0x1,
+        NUM_OF_TABS
+    }
+}
+
+namespace XManager.SystemTheme
+{
+    public enum Theme
+    {
+        LIGHT = 0x00,
+        DARK = 0x01,
+        NUMS_OF_THEME
+    }
+}
+
